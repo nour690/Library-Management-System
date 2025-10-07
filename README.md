@@ -44,10 +44,12 @@ The project is structured around four main classes:
 ## 🖥️ How to Run
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/nour690/Library-Management-System.git
 
 javac Project.java
+
 java Project
 
 ---
@@ -110,5 +112,7 @@ I learned:
 ## 👨‍💻 Author
 
 Mohammad Nour ALTURKMANI
+
 Software Engineering Student @ FSMV University
+
 📍 Passionate about learning programming and software design.
