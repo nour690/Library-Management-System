@@ -55,19 +55,29 @@ java Project
 ## 🧩 Example Menu (Console Interaction)
 
 Library Management System:
+
 1. Add a New Book
+
 2. Register a New User
+
 3. Borrow a Book
+
 4. Return a Book
+
 5. Display All Books
+
 6. View Transactions
+
 7. Exit
 
 Sample Run:
 
 Enter Book Title: Java Programming Basics
+
 Enter Author: John Smith
+
 Enter Total Copies: 5
+
 Book 'Java Programming Basics' by John Smith has been added with 5 copies.
 
 ---
@@ -75,7 +85,9 @@ Book 'Java Programming Basics' by John Smith has been added with 5 copies.
 ## 🛠️ Technologies Used
 
 Language: Java
+
 Paradigm: Object-Oriented Programming (OOP)
+
 Concepts: Encapsulation, Arrays, Classes, Methods, Validation, UML
 
 ---
@@ -84,9 +96,13 @@ Concepts: Encapsulation, Arrays, Classes, Methods, Validation, UML
 
 This was my first real coding project, built during my first semester at FSMVU.
 I learned:
+
 1.How to design and structure a program using multiple classes.
+
 2.How to use arrays and methods effectively.
+
 3.How OOP helps organize code and makes programs easier to maintain.
+
 4.That even the simplest projects can teach the most important lessons.
 
 ---
