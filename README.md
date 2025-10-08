@@ -99,13 +99,13 @@ Concepts: Encapsulation, Arrays, Classes, Methods, Validation, UML
 This was my first real coding project, built during my first semester at FSMVU.
 I learned:
 
-1.How to design and structure a program using multiple classes.
+- How to design and structure a program using multiple classes.
 
-2.How to use arrays and methods effectively.
+- How to use arrays and methods effectively.
 
-3.How OOP helps organize code and makes programs easier to maintain.
+- How OOP helps organize code and makes programs easier to maintain.
 
-4.That even the simplest projects can teach the most important lessons.
+- That even the simplest projects can teach the most important lessons.
 
 ---
 
