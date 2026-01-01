@@ -1,8 +1,6 @@
 # 📚 Library Management System (Java)
 
-A simple **Library Management System** developed in **Java** using **Object-Oriented Programming (OOP)** concepts.  
-This project was created by **Mohammad Nour ALTURKMANI** during my **first semester at FSMV University (FSMVU)** — when I knew absolutely nothing about programming.  
-It marks the beginning of my journey as a Software Engineering student and my first real project in Java.
+A simple **Library Management System** developed in **Java** using **Object-Oriented Programming (OOP)** concepts. This project was created by **Mohammad Nour ALTURKMANI** during my **first semester at FSMV University (FSMVU)** — when I knew absolutely nothing about programming. It marks the beginning of my journey as a Software Engineering student and my first real project in Java.
 ---
 ## 🎯 Overview
 
